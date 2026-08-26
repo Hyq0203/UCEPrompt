@@ -4,7 +4,7 @@
 Prepare [Dassl.pytorch](https://github.com/KaiyangZhou/Dassl.pytorch).
 
 ## Run
-Few-shot
+Few-shot Learning
 
 ```bash
 bash scripts/uceprompt/run_fw.sh
